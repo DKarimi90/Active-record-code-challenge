@@ -17,7 +17,7 @@ To use this project, follow the steps below:<br>
 ### BDD 
     The program includes various methods that take in different data from the three models as the parameters and outputs different return values based on instance and method calls 
 ### pseudo_code 
-### START ,
+### START 
     1. Create an app folder to store the necessary models (products, reviews, users)<br>
     2. Create a config folder to store the yml and environment.rb files<br>
     3. Create a db folder and a seeds.rb within it<br> 
