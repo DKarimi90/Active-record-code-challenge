@@ -13,7 +13,7 @@ To use this project, follow the steps below:<br>
     3. run `bundle install` to install necessary dependencies<br> 
     4. use cmd `bundle exec rake console` to access the `Pry console` in order to test out the instances 
 
-# Behavioral Driven Development 
+## Behavioral Driven Development 
 ### BDD 
     The program includes various methods that take in different data from the three models as the parameters and outputs different return values based on instance and method calls 
 ### pseudo_code 
