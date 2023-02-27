@@ -18,14 +18,14 @@ To use this project, follow the steps below:<br>
     The program includes various methods that take in different data from the three models as the parameters and outputs different return values based on instance and method calls 
 ### pseudo_code 
 ### START 
-    1. Create an app folder to store the necessary models (products, reviews, users)<br>
-    2. Create a config folder to store the yml and environment.rb files<br>
-    3. Create a db folder and a seeds.rb within it<br> 
-    4. Create a `Gemfile` and `Rakefile`<br>
-    5. Create a configured run file (environment.rb)<br>
-    6. Populate necessary commands across the various files eg environment.rb, Gemfile, Rakefile and Seeds.rb<br>
-    7. Execute `migrations` to auto-generate the schema<br>
-    8. run the cmd `bundle exec rake console` to access the `Pry console` in order to test the necessary instances<br> 
+    1. Create an app folder to store the necessary models (products, reviews, users)
+    2. Create a config folder to store the yml and environment.rb files
+    3. Create a db folder and a seeds.rb within it
+    4. Create a `Gemfile` and `Rakefile`
+    5. Create a configured run file (environment.rb)
+    6. Populate necessary commands across the various files eg environment.rb, Gemfile, Rakefile and Seeds.rb
+    7. Execute `migrations` to auto-generate the schema
+    8. run the cmd `bundle exec rake console` to access the `Pry console` in order to test the necessary instances
 ### END
 
 ## Author 
