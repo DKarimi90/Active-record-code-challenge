@@ -12,7 +12,7 @@ gem "sqlite3"
 
 gem "require_all"
 
-gem "Faker"
+gem "faker"
 
 gem "puma"
 

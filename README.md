@@ -10,7 +10,7 @@ This is a backend project that relies on Ruby and SQL languages with an emphasis
 To use this project, follow the steps below:<br> 
     1. On your terminal, navigate to the folder you want to store the project<br>
     2. Clone the project into the desired folder and navigate to the project using cmd `cd Active-record-code-challenge`<br>
-    3. run `bundle install` to install necessary dependencies<br> 
+    3. run `bundle install` to install necessary gems<br> 
     4. use cmd `bundle exec rake console` to access the `Pry console` in order to test out the instances 
 
 ## Behavioral Driven Development 
