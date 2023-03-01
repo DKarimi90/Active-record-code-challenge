@@ -18,9 +18,6 @@ puts ":seedling: Seeding data..."
     users = User.all
     products = Product.all
 
-    
-    
-
     # # create between 1 and 10 reviews for each product and user
     rand(1..10).times do
       user = users.sample
